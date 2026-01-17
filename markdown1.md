@@ -74,4 +74,3 @@ The users of the system include:
 6. Frontend Technology
 •	HTML
 •	CSS
-
